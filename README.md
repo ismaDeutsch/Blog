@@ -20,6 +20,8 @@ Pour cette éxercice j'ai choisi de créer un petit blog où on peut ajouter/sup
 * bootstrap core-js jquery popper.js
 
 #### Installation
+##### Configuration MySQL
+Dans /blog/api/config/dbConfig.js, renseignez vos ids de base de données 
 ##### coté server
 lancer depuis /blog/api la commande > npm install pour installer les dépendences puis > npm start pour lancer le server
 ##### coté client 
